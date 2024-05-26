@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title> 
+            <link rel="stylesheet" href="./main.css">
+        </title>
+    </head>
+    <body>
+        <div>
+            <h1>Сайт про кошек</h1>
+        </div>
+    </body>
+</html>
